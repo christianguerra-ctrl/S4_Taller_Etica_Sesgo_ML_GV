@@ -2,8 +2,12 @@
 
 **Curso:** MIAR0525 · Semana 4  
 **Tema:** Predicción de mora en cuentas por cobrar (CxC)  
-**Duración sugerida:** 5–10 minutos  
-**Autor:** [Tu nombre] · [Fecha]
+## Equipo
+
+- Luis Sebastian Arias Loaiza
+- Christian David Guerra Castro
+- Angelo Daniel Guevara Salazar
+- Cristian Paul Quintana Velasquez
 
 ---
 
